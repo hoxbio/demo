@@ -1,7 +1,4 @@
-# HoX Demo Repository
-
-Work in Progress
-
+<!-- the header is in _config.yml, next size down is ## -->
 ## CLI
 Demos using the HoX command line tool to interact with the HoX platform
 1. [scRNA](cli/scRNA.md)
@@ -10,4 +7,12 @@ Demos using the HoX command line tool to interact with the HoX platform
 ## GUI
 Demos using the HoX GUI to import, analyze, and export resources
 
-TODO
+<b>TODO</b>
+
+1. Home
+2. Viewer
+3. Cell Viz
+4. Workflows
+5. Admin
+
+##
