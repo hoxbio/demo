@@ -1,8 +1,6 @@
 # HoX CLI Demo - scRNA
 
 1. [Import and Create Resources](#import-and-create-resources)
-<!-- 2. [Tag and Search Resources](#tag-and-search-resources)
-3. [Export Resources](#export-resources) -->
 
 ## Import and Create Resources
 

@@ -1,6 +1,13 @@
 # HoX Demo Repository
 
-## cli
+Work in Progress
+
+## CLI
 Demos using the HoX command line tool to interact with the HoX platform
-1. [scRNA](github.com/hoxbio/demo/scRNA.md)
-2. [Whole Genome](github.com/hoxbio/demo/genome.md)
+1. [scRNA](cli/scRNA.md)
+2. [Whole Genome](cli/genome.md)
+
+## GUI
+Demos using the HoX GUI to import, analyze, and export resources
+
+TODO
